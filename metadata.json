@@ -1,0 +1,6 @@
+{
+  "name": "EstateCopyAI Enterprise - B2B Real Estate Copywriting Platform",
+  "description": "Hyper-clean B2B enterprise AI copywriting platform for real estate agencies and brokerages with localized multi-workspace capabilities.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
